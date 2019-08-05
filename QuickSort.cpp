@@ -1,4 +1,4 @@
-/* C++ program to sort the array using merge sort algorithm. */
+/* C++ program to sort the array using quick sort algorithm. */
 
 #include <iostream>
 using namespace std;
